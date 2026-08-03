@@ -1,4 +1,4 @@
-## 🌴 StbleNaira-sitter-solidity
+## 🌴 Antfarm-sitter-solidity
 [![Node.js CI](https://github.com/antfarm-official/sitter-solidity/actions/workflows/node.js.yml/badge.svg)](https://github.com/antfarm-official/sitter-solidity/actions/workflows/node.js.yml)
 
 > 💡 this grammar is still in development, the structure of the generated AST is not stable
